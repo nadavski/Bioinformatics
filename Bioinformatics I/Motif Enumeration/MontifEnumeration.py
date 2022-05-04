@@ -3,7 +3,7 @@ Implanted Motif Problem:
 Find all (k, d)-motifs in a collection of strings. A collection of strings Dna, and integers k and d.
 All (k, d)-motifs in Dna.
 """
-#Chunyu Zhao
+
 import sys
 
 def hamming_distance(str1,str2):
