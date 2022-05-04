@@ -27,5 +27,5 @@ if __name__ == '__main__':
 
 # - Sample Input: ATTCTGGA  CGCCCGAATCCAGAACGCATTCCCATATTTCGGGACCACTGGCCTCCACGGTACGGACGTCAATCAAAT  3
 # - Sample Output: 6 7 26 27
-#file = open('/Users/nadav/Desktop/bioinformatics/Hamming Distance/sequence.txt', 'r')
+#file = open('/Users/fuckoff.', 'r')
 #fullSet = file.read()
