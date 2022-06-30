@@ -1,6 +1,6 @@
 #!/bin/bash
 #TAAAGACTGCCGAGAGGCCAACACGAGTGCTAGAACGAGGGGCGTAAACGCGGGTCCGAT
-#sequence=$(cat ~/Desktop/bioinformatics/scripts/lalala/sseq.txt)
+#sequence=$(cat ~/Biohacking/scripts/lalala/sseq.txt)
 
 sequence="GCATACACTTCCCAGTAGGTACTG"
 #echo && read -p 'Sequence:' sequence && echo
