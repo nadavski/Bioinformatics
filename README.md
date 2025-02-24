@@ -88,3 +88,8 @@
 <tr><th>Change Description</th><th>Date</th></tr>
 <tr><td style='color: #33;'>Update version- 2025-02-24 15:01:26</td><td>2025-02-24 15:01:26</td></tr>
 </table>
+<h3>Changes</h3>
+<table border="1">
+<tr><th>Change Description</th><th>Date</th></tr>
+<tr><td style='color: #34;'>Update version- 2025-02-24 15:02:26</td><td>2025-02-24 15:02:26</td></tr>
+</table>
